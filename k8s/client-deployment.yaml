@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: client
-          image: 127.0.0.1:30400/client
+          image: ciklumdevops8953/multi-client
           ports:
             - containerPort: 3000
